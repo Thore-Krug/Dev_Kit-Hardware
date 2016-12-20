@@ -1,0 +1,17 @@
+Workmanship Standard:
+IPC-6012A, Class 2; per IPC-6011 
+
+Size: 72.3mm x 76.5mm
+Soldermask: White
+Silkscreen: Black
+Thickness 1.6mm
+Copper Weight: 1oz
+Finish: ENIG
+Layers: 2
+Material: FR4
+
+100% E-Test
+
+No manufacturer markings on PCB.
+
+Manufacturing identifcation or batch code must be added on margin of the panel.
